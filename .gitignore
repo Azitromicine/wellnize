@@ -30,3 +30,13 @@ Thumbs.db
 .pytest_cache/
 .coverage
 htmlcov/
+# Временные тестовые файлы
+collapse_sidebar_test.py
+project_tree.txt
+script/
+tests/flet_aligment.py
+tests/flet_animation.py
+
+# Дополнительно можно добавить
+demo_*.py
+test_*.py
